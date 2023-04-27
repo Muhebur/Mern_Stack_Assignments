@@ -1,0 +1,19 @@
+.imge,img{
+ border-radius: 50%;
+ margin-top: 5em;
+ 
+}
+.email{
+  
+   margin-top: 2px;
+   
+}
+.pass{
+   margin-top: 4px;
+}
+.but, button[type=button]{
+   margin-top: 5px;
+   margin-left: 20em;
+   height: 2.5em;
+   width: 10em;
+}
